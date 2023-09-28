@@ -17,7 +17,7 @@
  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=byatrizmoura&layout=compact&theme=codeSTACKr">
 </div>
 
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=byatrizmoura&repo=IFES-PROGRAMACAO&cache_seconds=86400&theme=codeSTACKr)](https://github.com/byatrizmoura/IFES-PROGRAMACAO.git)
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=byatrizmoura&repo=angular-blog-project&cache_seconds=86400&theme=codeSTACKr)](https://github.com/byatrizmoura/angular-blog-project.git)
 
 ###
 
